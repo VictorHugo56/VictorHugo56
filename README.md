@@ -1,6 +1,6 @@
 ### Olá! eu sou o Victor Hugo
 
-- 🌱 Estudando HTML, CSS, JS, NodeJS
+- 🌱 Estudando HTML, CSS, JS, NodeJS, EJS
 - 📫 Contato: victor.pereira2056@gmail.com
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorHugo56&show_icons=true&theme=tokyonight)

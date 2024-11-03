@@ -2,7 +2,6 @@
 
 - 🌱 Estudante de Ciência de dados na Uninter.
 - 📫 Contato: victor.pereira2056@gmail.com
-- Linkedin: https://www.linkedin.com/in/victor-hugo-pereira-almeida-529982239/
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorHugo56&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorHugo56&layout=compact&show_icons=true&theme=tokyonight)

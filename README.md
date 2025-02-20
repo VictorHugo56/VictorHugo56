@@ -7,4 +7,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorHugo56&layout=compact&show_icons=true&theme=tokyonight)
 
   <a href = "mailto:victor.pereira2056@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/victor-hugo-pereira-almeida-529982239/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/victor-h-almeida/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
